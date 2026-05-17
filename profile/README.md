@@ -13,7 +13,7 @@ Este proyecto representa una guía completa sobre POO junto con la solución de 
 Integrada por:
 
 - **Armando Alonso Pinto Antonio**
-- **Julian Andres Ariza Ariza**
+- **Julian David Ariza Ariza**
 
 Somos ingenieros mecatrónicos enfocados en integrar software, automatización, lógica computacional y soluciones reales a problemas del entorno.
 
