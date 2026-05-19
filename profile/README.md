@@ -1,3 +1,25 @@
+<div align="center">
+
+# 🚀 POO & DSA PROJECT
+
+## CODE CORHUILA
+
+<p>
+Plataforma educativa enfocada en Programación Orientada a Objetos
+y Estructuras de Datos mediante ejemplos prácticos y teoría aplicada.
+</p>
+
+---
+
+## 🌐 Acceder al proyecto
+
+### 🔗 https://code-mecatronica.github.io/Poo-Project/
+
+---
+
+
+
+</div>
 # 🚀 Code Corhuila
 
 Bienvenidos al repositorio oficial de **Code Corhuila**, una organización académica enfocada en el desarrollo de soluciones tecnológicas aplicadas a la **Programación Orientada a Objetos (POO)** y la **Ingeniería Mecatrónica**.
