@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 POO & DSA PROJECT
+# 🚀 POO PROJECT
 
 ## CODE CORHUILA
 
