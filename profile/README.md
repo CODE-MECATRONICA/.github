@@ -36,6 +36,7 @@ Integrada por:
 
 - **Armando Alonso Pinto Antonio**
 - **Julian David Ariza Ariza**
+- **Santiago Andres Torres Narvaez**
 
 Somos ingenieros mecatrónicos enfocados en integrar software, automatización, lógica computacional y soluciones reales a problemas del entorno.
 
