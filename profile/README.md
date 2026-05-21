@@ -4,6 +4,9 @@
 
 ## CODE CORHUILA
 
+### Asignatura: Programación Orientada a Objetos  
+### Facultad de Ingeniería
+
 <p>
 Plataforma educativa enfocada en Programación Orientada a Objetos
 y Estructuras de Datos mediante ejemplos prácticos y teoría aplicada.
@@ -17,36 +20,38 @@ y Estructuras de Datos mediante ejemplos prácticos y teoría aplicada.
 
 ---
 
-
-
 </div>
-# 🚀 Code Corhuila
+
+# 📌 Información General
+
+| Campo | Información |
+|---|---|
+| **Proyecto** | POO Project |
+| **Organización** | Code Corhuila |
+| **Asignatura** | Programación Orientada a Objetos |
+| **Facultad** | Facultad de Ingeniería |
+| **Tecnologías** | HTML5, CSS3, JavaScript, Java, GitHub Pages |
+| **Repositorio Oficial** | https://github.com/CODE-MECATRONICA |
+| **Landing Page** | https://code-mecatronica.github.io/Poo-Project/ |
+
+---
+
+# 👨‍💻 Integrantes
+
+- **Armando Alonso Pinto Antonio**
+- **Julian David Ariza Ariza**
+- **Santiago Andres Torres Narvaez**
+- **Fernando Augusto Perdomo Ortiz**
+
+---
+
+# 📘 Descripción del Proyecto
 
 Bienvenidos al repositorio oficial de **Code Corhuila**, una organización académica enfocada en el desarrollo de soluciones tecnológicas aplicadas a la **Programación Orientada a Objetos (POO)** y la **Ingeniería Mecatrónica**.
 
 Este proyecto representa una guía completa sobre POO junto con la solución de una problemática cotidiana que muchas personas enfrentan, pero pocas veces se detienen a resolver de manera eficiente mediante la tecnología.
 
----
-
-## 👨‍💻 Integrantes
-
-### Organización: **Code Corhuila**
-
-Integrada por:
-
-- **Armando Alonso Pinto Antonio**
-- **Julian David Ariza Ariza**
-- **Santiago Andres Torres Narvaez**
-
-Somos ingenieros mecatrónicos enfocados en integrar software, automatización, lógica computacional y soluciones reales a problemas del entorno.
-
-Nuestra visión va más allá del código: buscamos desarrollar herramientas inteligentes que optimicen procesos, mejoren la calidad de vida y fortalezcan la innovación tecnológica.
-
----
-
-## 📘 Sobre el Proyecto
-
-En este repositorio presentamos una **Guía de Programación Orientada a Objetos (POO)**, desarrollada con fines académicos y prácticos, donde explicamos conceptos fundamentales como:
+En este repositorio presentamos una guía desarrollada con fines académicos y prácticos donde se explican conceptos fundamentales como:
 
 - Clases y Objetos
 - Encapsulamiento
@@ -56,56 +61,32 @@ En este repositorio presentamos una **Guía de Programación Orientada a Objetos
 - Interfaces
 - Manejo de Excepciones
 - Buenas prácticas de desarrollo
-- Aplicación real mediante resolución de problemas
 
-Además, abordamos una problemática común que todos hemos tenido alguna vez, pero que pocas veces analizamos desde una perspectiva de solución tecnológica.
-
-Nuestro objetivo fue diseñar una propuesta funcional basada en POO que permita demostrar cómo la programación puede convertirse en una herramienta real de mejora.
+Además, el proyecto implementa una solución funcional aplicando principios de ingeniería, lógica computacional y desarrollo estructurado.
 
 ---
 
-## 🌐 Página Web del Proyecto
+# ⚙️ Relación con la Mecatrónica
 
-Puedes visitar nuestra página principal aquí:
-
-🔗 https://code-mecatronica.github.io/Poo-Project/
-
----
-
-## ⚙️ Relación con la Mecatrónica
-
-La Ingeniería Mecatrónica no solo involucra sistemas físicos, automatización y robótica; también requiere una base sólida en desarrollo de software.
+La Ingeniería Mecatrónica requiere integración entre software, automatización y sistemas inteligentes.
 
 La Programación Orientada a Objetos permite:
 
 - Modelar sistemas inteligentes
 - Diseñar arquitecturas escalables
-- Integrar sensores y actuadores con software robusto
-- Crear soluciones automatizadas para la industria
+- Integrar sensores y actuadores
+- Crear soluciones automatizadas
 - Optimizar procesos mediante lógica estructurada
 
-Este proyecto representa precisamente esa unión entre la ingeniería y la programación.
+---
+
+# 🎯 Objetivo General
+
+Desarrollar una guía práctica de Programación Orientada a Objetos junto con una solución tecnológica funcional aplicando buenas prácticas de desarrollo e ingeniería de software.
 
 ---
 
-## 🎯 Objetivo General
-
-Desarrollar una guía práctica de Programación Orientada a Objetos junto con la implementación de una solución tecnológica orientada a resolver una problemática cotidiana, aplicando principios de ingeniería, lógica computacional y buenas prácticas de desarrollo.
-
----
-
-## 🛠 Tecnologías Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Git & GitHub
-- GitHub Pages
-
----
-
-## 📂 Estructura del Proyecto
+# 📂 Estructura del Proyecto
 
 ```bash
 Code-Corhuila/
@@ -119,6 +100,13 @@ Code-Corhuila/
 ├── temas/
 │   ├── encapsulamiento.html
 │   ├── herencia.html
+│   ├── polimorfismo.html
+│   ├── abstraccion.html
+│   ├── interfaces.html
+│
+├── README.md
+│
+└── docs/
 │   ├── polimorfismo.html
 │   └── ...
 │
