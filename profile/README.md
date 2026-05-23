@@ -11,16 +11,6 @@
 Plataforma educativa enfocada en Programación Orientada a Objetos
 y Estructuras de Datos mediante ejemplos prácticos y teoría aplicada.
 </p>
-
----
-
-## 🌐 Acceder al proyecto
-
-### 🔗 https://code-mecatronica.github.io/Poo-Project/
-
-### 🔗 Proyecto Funcional
-https://code-mecatronica.github.io/Funcional-project/
-
 ---
 
 </div>
