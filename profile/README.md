@@ -11,6 +11,16 @@
 Plataforma educativa enfocada en Programación Orientada a Objetos
 y Estructuras de Datos mediante ejemplos prácticos y teoría aplicada.
 </p>
+
+---
+
+## 🌐 Acceder al proyecto
+
+### 🔗 https://code-mecatronica.github.io/Poo-Project/
+
+### 🔗 Proyecto Funcional
+https://code-mecatronica.github.io/Funcional-project/
+
 ---
 
 </div>
@@ -82,7 +92,6 @@ La Programación Orientada a Objetos permite:
 Desarrollar una guía práctica de Programación Orientada a Objetos junto con una solución tecnológica funcional aplicando buenas prácticas de desarrollo e ingeniería de software.
 
 ---
-
 # 📂 Estructura del Proyecto
 
 ```bash
@@ -94,7 +103,29 @@ POO-PROJECT/
 ├── assets/
 ├── docs/
 │
-└── Funcional-project/
-│   └── ...
+└── Landing Page/
+FUNCIONAL PROJECT/
 │
-└── README.md
+├── src/
+│   ├── app/
+│   │   └── App.java
+│   │
+│   ├── exceptions/
+│   │   └── EstudianteException.java
+│   │
+│   ├── interfaces/
+│   │   └── Registrable.java
+│   │
+│   ├── model/
+│   │   ├── Persona.java
+│   │   ├── Estudiante.java
+│   │   ├── Horario.java
+│   │   ├── RegistroAsistencia.java
+│   │   └── EstadoAsistencia.java
+│   │
+│   ├── service/
+│   │   └── AsistenciaService.java
+│   │
+│   └── utils/
+│       ├── Menu.java
+│       └── Validador.java
