@@ -18,6 +18,9 @@ y Estructuras de Datos mediante ejemplos prácticos y teoría aplicada.
 
 ### 🔗 https://code-mecatronica.github.io/Poo-Project/
 
+### 🔗 Proyecto Funcional
+https://code-mecatronica.github.io/Funcional-project/
+
 ---
 
 </div>
@@ -27,12 +30,14 @@ y Estructuras de Datos mediante ejemplos prácticos y teoría aplicada.
 | Campo | Información |
 |---|---|
 | **Proyecto** | POO Project |
+| **Proyecto Funcional** | Funcional Project |
 | **Organización** | Code Corhuila |
 | **Asignatura** | Programación Orientada a Objetos |
 | **Facultad** | Facultad de Ingeniería |
 | **Tecnologías** | HTML5, CSS3, JavaScript, Java, GitHub Pages |
 | **Repositorio Oficial** | https://github.com/CODE-MECATRONICA |
 | **Landing Page** | https://code-mecatronica.github.io/Poo-Project/ |
+| **Proyecto Funcional** | https://code-mecatronica.github.io/Funcional-project/ |
 
 ---
 
@@ -64,6 +69,8 @@ En este repositorio presentamos una guía desarrollada con fines académicos y p
 
 Además, el proyecto implementa una solución funcional aplicando principios de ingeniería, lógica computacional y desarrollo estructurado.
 
+El sistema funcional complementario demuestra la aplicación práctica de la Programación Orientada a Objetos mediante el desarrollo de una solución real, integrando lógica de programación, estructura modular y publicación web utilizando GitHub Pages.
+
 ---
 
 # ⚙️ Relación con la Mecatrónica
@@ -89,25 +96,15 @@ Desarrollar una guía práctica de Programación Orientada a Objetos junto con u
 # 📂 Estructura del Proyecto
 
 ```bash
-Code-Corhuila/
+POO-PROJECT/
 │
 ├── index.html
+├── styles/
+├── scripts/
 ├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── img/
+├── docs/
 │
-├── temas/
-│   ├── encapsulamiento.html
-│   ├── herencia.html
-│   ├── polimorfismo.html
-│   ├── abstraccion.html
-│   ├── interfaces.html
-│
-├── README.md
-│
-└── docs/
-│   ├── polimorfismo.html
+└── Funcional-project/
 │   └── ...
 │
 └── README.md
